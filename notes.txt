@@ -1,0 +1,48 @@
+columns go into rows
+rows go into containers
+
+bootstrap limits number of columns to 12 div spans
+
+be aware of grids within containers start over for the 12
+
+div container = row
+   <el>
+   <el
+
+any element can be a container
+
+1 - copy the bootstrap... look at the reference   open bootstrap and find layout grid... 
+
+
+head
+meta name="viewport" content
+title document title
+body
+ div class="container"
+header
+   h1 header
+close header
+div class="row"
+    div class = "col - sm - 3"    <p> to define the paragraph
+    div class = "col - sm - 3"
+    div class = "col - sm - 3"
+    
+the following is 2 x 6 equals 12
+another div class=row
+div class = "col - sm - 2" /div  vs code shortcuts
+div class = "col - sm - 2" /div  vs code shortcuts
+div class = "col - sm - 2" /div  vs code shortcuts
+div class = "col - sm - 2" /div  vs code shortcuts
+div class = "col - sm - 2" /div  vs code shortcuts
+div class = "col - sm - 2" /div  vs code shortcuts
+        
+   
+
+and, then the 3rd row
+div class = "col - sm - 6"
+div class = "col - sm - 6"
+
+
+your insert function should do ONE thing...!!!!!!!
+bootstrap - structure
+css - style and formating
